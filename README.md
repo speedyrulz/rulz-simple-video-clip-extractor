@@ -1,3 +1,5 @@
+> **This app has moved.** RulZ Simple Video Clip Extractor is now part of [RulZ AI Tools Suite](https://github.com/speedyrulz/RulZ-AI-Tools-Suite): its source is in [apps/rulz-simple-video-clip-extractor](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/tree/main/apps/rulz-simple-video-clip-extractor), its downloads are on the [Releases page](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/releases) and its guide is in the [wiki](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/wiki/Clip-Extractor). This repository is archived and no longer updated.
+
 ![RulZ](simplecut/assets/logo_light.png)
 
 # RulZ Simple Video Clip Extractor
